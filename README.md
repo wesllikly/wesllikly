@@ -2,7 +2,7 @@
 <div>
 - Iniciando Estudos Em Progamaçao <br>
 - ☀Aprendendo JavaScript <br>
-- SJE/PE - EREM - 1° ano <br >
+- SJE/PE - 1° ano <br >
  -Linguagem Principal No Momento <img alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
   <br>
